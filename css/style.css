@@ -81,7 +81,6 @@ header a:hover {
 .showcase {
   height: 400px;
   background-color: var(--primary-color);
-  /* color: #fff; */
   position: relative;
 }
 
