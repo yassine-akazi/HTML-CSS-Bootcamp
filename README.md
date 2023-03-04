@@ -12,7 +12,6 @@ To view this project, simply download the repository and open the index.html fil
 Feel free to use this project as a template for your own HTML/CSS projects. You can customize the pages, styles, and content to fit your needs.
 
 ## Credits
-This project was created by [Your Name].
+This project was created by YASSSINE AKAZI.
 
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute this project as needed.
+
